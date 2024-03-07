@@ -1,5 +1,5 @@
 # NPTEL-Programming-Data-Structures-and-Algorithms-using-Python-Week-2-Practice-Programming-Assignment
-NPTEL Python Week 2 Practice Programming Assignment
+NPTEL Programming, Data Structures and Algorithms using Python Week 2 Practice Programming Assignment
 
 # Week 2 Practice Programming Assignment
 1. Write a function intreverse(n) that takes as input a positive integer n and returns the integer obtained by reversing the digits in n.
