@@ -1,4 +1,4 @@
-# NPTEL-Python-Week-2-Practice-Programming-Assignment
+# NPTEL-Programming-Data-Structures-and-Algorithms-using-Python-Week-2-Practice-Programming-Assignment
 NPTEL Python Week 2 Practice Programming Assignment
 
 # Week 2 Practice Programming Assignment
